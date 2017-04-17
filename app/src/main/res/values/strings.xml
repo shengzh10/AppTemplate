@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">AppTemplate</string>
+
+    <!--通用-->
+    <string name="common_all">全部</string>
+    <string name="common_return">返回</string>
+    <string name="common_cancel">取消</string>
+    <string name="common_ok">确定</string>
+
+    <!--下拉上划-->
+    <string name="list_pull_label">下拉刷新</string>
+    <string name="list_refresh_label">正在刷新...</string>
+    <string name="list_release_label">松开立即刷新</string>
+    <string name="list_loading">正在加载</string>
+    <string name="list_refreshing">正在刷新</string>
+</resources>
