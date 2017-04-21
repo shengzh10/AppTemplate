@@ -1,0 +1,12 @@
+<component name="libraryTable">
+  <library name="pulltorefresh-1.0.9">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.android/build-cache/a2dc33c2037e390a632f65af95c380f6c43cf5ff/output/jars/classes.jar!/" />
+      <root url="file://$USER_HOME$/.android/build-cache/a2dc33c2037e390a632f65af95c380f6c43cf5ff/output/res" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.kevin/pulltorefresh/1.0.9/2286f49ded2edb95c8fb5db228afeca138e05b5e/pulltorefresh-1.0.9-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

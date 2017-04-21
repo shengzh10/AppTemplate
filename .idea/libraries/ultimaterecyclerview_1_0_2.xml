@@ -1,0 +1,12 @@
+<component name="libraryTable">
+  <library name="ultimaterecyclerview-1.0.2">
+    <CLASSES>
+      <root url="file://$USER_HOME$/.android/build-cache/bb7c483d2a50051b0ba129121d0c774352adf7ab/output/res" />
+      <root url="jar://$USER_HOME$/.android/build-cache/bb7c483d2a50051b0ba129121d0c774352adf7ab/output/jars/classes.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.kevin/ultimaterecyclerview/1.0.2/256c7e871a6c8e6fdd37dda98cbafa05096e5b74/ultimaterecyclerview-1.0.2-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>
